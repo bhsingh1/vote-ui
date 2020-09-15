@@ -1,2 +1,2 @@
-# Voting app for Tekton Pipeline examples
+# Voting application for Tekton Pipeline example:
 hook test
